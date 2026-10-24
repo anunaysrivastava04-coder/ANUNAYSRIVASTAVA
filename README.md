@@ -180,36 +180,14 @@ I enjoy combining engineering with creativity to transform ideas into interactiv
 - User-friendly interactions and micro-animations
 
 ### 🎬 Video Editing
-- Video editing and clip arrangement
-- Transitions and visual effects
-- Visual storytelling and pacing
-- Promotional and project demonstration videos
-- Digital content presentation
 
 ### 🖼️ Thumbnail Design
-- YouTube thumbnail design
-- Attention-grabbing visual composition
-- Typography and image arrangement
-- Image enhancement and visual hierarchy
 
 ### 📸 Photo Editing
-- Image enhancement and retouching
-- Color and lighting adjustments
-- Background refinement
-- Professional image presentation
 
 ### 🎨 Graphic Design
-- Posters, banners, and promotional graphics
-- Social media creative assets
-- Typography and visual communication
-- Branding and presentation graphics
 
 ### ✍️ Scriptwriting & Storytelling
-- Video scriptwriting
-- Story development and narrative structure
-- Creative concepts and content ideas
-- Engaging introductions and dialogues
-- Technology-focused storytelling
 
 ---
 
