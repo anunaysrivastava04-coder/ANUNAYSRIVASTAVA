@@ -15,15 +15,6 @@
   <img height="195" alt="Anunay's GitHub streak" src="https://streak-stats.demolab.com?user=anunaysrivastava04-coder&theme=tokyonight&hide_border=true&ring=00F7FF&fire=7B2FF7&currStreakLabel=00F7FF" />
 </p>
 
-## 🟩 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-    <img alt="Animated contribution snake" src="dist/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ## 💻 Programming Languages
 
 <p align="center">
