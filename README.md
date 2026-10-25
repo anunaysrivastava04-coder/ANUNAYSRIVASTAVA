@@ -460,7 +460,7 @@ A robotics project exploring obstacle detection and autonomous navigation using 
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 
-<h2 align="center">🐍 Contribution Snake Animation</h2>
+<h2 align="center">🐍 Contribution</h2>
 
 <div align="center">
 
