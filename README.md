@@ -180,14 +180,36 @@ I enjoy combining engineering with creativity to transform ideas into interactiv
 - User-friendly interactions and micro-animations
 
 ### 🎬 Video Editing
+- Video editing and clip arrangement
+- Transitions and visual effects
+- Visual storytelling and pacing
+- Promotional and project demonstration videos
+- Digital content presentation
 
 ### 🖼️ Thumbnail Design
+- YouTube thumbnail design
+- Attention-grabbing visual composition
+- Typography and image arrangement
+- Image enhancement and visual hierarchy
 
 ### 📸 Photo Editing
+- Image enhancement and retouching
+- Color and lighting adjustments
+- Background refinement
+- Professional image presentation
 
 ### 🎨 Graphic Design
+- Posters, banners, and promotional graphics
+- Social media creative assets
+- Typography and visual communication
+- Branding and presentation graphics
 
 ### ✍️ Scriptwriting & Storytelling
+- Video scriptwriting
+- Story development and narrative structure
+- Creative concepts and content ideas
+- Engaging introductions and dialogues
+- Technology-focused storytelling
 
 ---
 
@@ -336,6 +358,68 @@ Academic interests include AI/ML, software development, programming, web technol
 
 ---
 
+<!-- PROJECTS -->
+
+<h2 align="center">🚀 Projects & Experiments</h2>
+
+### ✍️ 1. AreoWrite
+
+**Category:** Web Development
+
+A web project focused on a digital writing experience.
+
+<a href="https://areowrite.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20AreoWrite-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Visit AreoWrite"/>
+</a>
+
+### 🎮 2. FlappyGestures
+
+**Category:** Mini Game Development / Gesture Interaction
+
+A browser-based game project exploring gesture-driven gameplay.
+
+<a href="https://flappygestures.netlify.app/">
+<img src="https://img.shields.io/badge/🎮%20PLAY%20NOW-FlappyGestures-7B2FF7?style=for-the-badge&labelColor=0D1117" alt="Play FlappyGestures"/>
+</a>
+
+### 🧠 3. RIZEN AI Assistant
+
+**Category:** AI / Software Development
+
+An AI assistant concept inspired by intelligent virtual assistants.
+
+- Conversational AI and chatbot interfaces
+- Voice-based interaction concepts
+- Productivity and automation
+- Modern user interfaces
+- Real-time information integration concepts
+
+### 📝 4. QUIZOO — AI Quiz Platform
+
+**Category:** AI / Web Development
+
+An educational quiz platform concept.
+
+- Topic-based quizzes
+- Interactive question navigation
+- Answer feedback
+- Multilingual interface concepts
+- AI-assisted learning experiences
+
+### 🤖 5. ESP32 Obstacle-Avoidance Robot
+
+**Category:** Robotics / Embedded Systems
+
+A robotics project exploring obstacle detection and autonomous navigation using microcontrollers, sensors, and motors.
+
+- ESP32 microcontroller
+- Ultrasonic distance sensing
+- Motor-driver integration
+- Servo-based sensor scanning
+- Obstacle detection and navigation logic
+
+---
+
 <!-- GITHUB CONTRIBUTION STREAK -->
 
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
@@ -372,6 +456,19 @@ Academic interests include AI/ML, software development, programming, web technol
 
 </div>
 
+---
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+
+<h2 align="center">🐍 Contribution Snake Animation</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anunaysrivastava04-coder/anunaysrivastava04-coder/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+> **To enable the snake animation:** Create a GitHub Actions workflow in your profile repository that generates `github-contribution-grid-snake-dark.svg` and publishes it to the `output` branch. The image above will remain unavailable until the workflow has successfully generated and published the file.
 
 ---
 
