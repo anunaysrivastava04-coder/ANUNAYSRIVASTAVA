@@ -508,7 +508,7 @@ A robotics project exploring obstacle detection and autonomous navigation using 
 - 🛠️ Interest in practical projects and experimentation
 - 🌐 A user-focused approach to interface development
 - 🤝 Interest in collaboration and knowledge sharing
-- 🚀 Motivation to explore emerging technologies
+- 🚀 Motivation to explore emerging technologies.
 
 ---
 
